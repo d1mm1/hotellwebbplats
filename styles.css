@@ -2,7 +2,7 @@
 
 
 header {
-    background-image: url(pauli.jpg);
+    background-image: url(pauli.webp);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -45,7 +45,7 @@ main {
     border: 5px solid black;
     border-left-width: 60px;
     border-right-width: 60px;
-    background: black;
+    background: #020403;
     border-radius: 15px;
 
 }
