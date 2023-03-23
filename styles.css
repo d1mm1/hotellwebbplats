@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+
+
+header {
+    background-image: url(pauli.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.logga {
+    width: 20vw;
+    display: flex;
+}
+
+.txt {
+    border: solid;
+    font-size: 27px;
+    text-align: center;
+    word-spacing: 50px;
+    background-color: #151515;
+}
+
+a:hover {
+    color: rgb(68, 59, 6);
+
+}
+
+a {
+    color: #B5935E;
+    text-decoration: none;
+}
+
+main {
+    background-color: #151515;
+    color: #B5935E;
+    display: flex;
+    align-items: center;
+    margin: 20px;
+
+}
+
+.rum {
+    width: 77vw;
+    padding: 2%;
+    border: 5px solid black;
+    border-left-width: 60px;
+    border-right-width: 60px;
+    background: black;
+    border-radius: 15px;
+
+}
+
+.te21a {
+    padding-bottom: 3%;
+}
+
+.varf {
+    margin: 20px;
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.varf p {
+    font-style: italic;
+}
+
+.varf legend {
+    font-size: 30px;
+    font-style: italic;
+}
+
+.inf {
+    text-align: left;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    padding: 5%;
+    font-style: italic;
+    border-radius: 20px;
+    border: 6px solid rgb(12, 12, 12);
+    background: rgb(12, 12, 12);
+    width: 600px;
+
+}
+
+.why {
+    padding-left: 5%;
+}
+
+footer {
+    border: 6px solid black;
+    border-radius: 10%;
+    background: rgb(12, 12, 12);
+    color: #B5935E;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    height: 999px;
+    background-color: #151515;
+}
